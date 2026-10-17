@@ -1,2 +1,2 @@
 # excel-project
-excel project with all concepts
+excel project with all concept
